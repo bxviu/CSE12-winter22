@@ -72,7 +72,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>A</string>
+          <string>in_0_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="360" y="640"/>
@@ -82,7 +82,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>B</string>
+          <string>in_1_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="360" y="780"/>
@@ -92,7 +92,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>C</string>
+          <string>in_2_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="360" y="920"/>
@@ -182,7 +182,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>A</string>
+          <string>in_0_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="1180"/>
@@ -196,7 +196,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>C</string>
+          <string>in_2_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="1260"/>
@@ -281,12 +281,12 @@
       <elementName>Rectangle</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>AND Gate</string>
-        </entry>
-        <entry>
           <string>RectHeight</string>
           <int>20</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>AND Gate</string>
         </entry>
         <entry>
           <string>RectWidth</string>
@@ -299,12 +299,12 @@
       <elementName>Rectangle</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>OR Gate</string>
-        </entry>
-        <entry>
           <string>RectHeight</string>
           <int>28</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>OR Gate</string>
         </entry>
         <entry>
           <string>RectWidth</string>
@@ -398,7 +398,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>A</string>
+          <string>in_0_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="300"/>
@@ -412,7 +412,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>B</string>
+          <string>in_1_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="380"/>
@@ -520,7 +520,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>B</string>
+          <string>in_1_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="740"/>
@@ -534,7 +534,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>C</string>
+          <string>in_2_tunnel</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="820"/>
