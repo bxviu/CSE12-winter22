@@ -2729,6 +2729,186 @@
       </elementAttributes>
       <pos x="1360" y="0"/>
     </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Segment A</string>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Segment B</string>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="140"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectHeight</string>
+          <int>18</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Segment C</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectHeight</string>
+          <int>12</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Segment D</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectHeight</string>
+          <int>8</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Segment E</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="1080"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectHeight</string>
+          <int>11</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Segment F</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="1260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectHeight</string>
+          <int>12</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Segment G</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>25</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="1500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Doesn&apos;t Need to Light Up</string>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>10</int>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>26</int>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="-460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Possible 1s and 0s</string>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>102</int>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>26</int>
+        </entry>
+      </elementAttributes>
+      <pos x="720" y="-200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Sign</string>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>2</int>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="1520" y="-240"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
